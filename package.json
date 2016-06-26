@@ -1,0 +1,24 @@
+{
+  "name": "react-native-components",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreyluiz/react-native-components.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "components"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreyluiz/react-native-components/issues"
+  },
+  "homepage": "https://github.com/andreyluiz/react-native-components#readme"
+}
